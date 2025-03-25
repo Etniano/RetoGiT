@@ -16,3 +16,4 @@ COMO USAR GITHUB
 
 RESUMEN:
 (1. GIT STATUS, 1. GIT ADD., 3. GIT STATUS, 4. GIT COMMIT -M, 5. GIT PUSH)
+ Nota para vago: Al hacer un GIT CLONE desde cmd en la carpeta será mas facil ya que github se enlaza automaticamente.
